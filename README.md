@@ -3,10 +3,6 @@
 👨‍🎓 Graduate of the Engineering School SeaTech (Aug. 2022)<br>
 🌱 Currently learning about data analytics and data visualization<br>
 
-After graduating, I decided to step outside the traditional engineering track and broaden my skill set. I gravitated toward marketing because it offered the perfect opportunity to enhance the communication skills I was eager to develop. I landed a job as a media planner, where I crafted marketing strategies, coordinated team efforts, and engaged directly with clients—a strategic move to build the interpersonal skills essential for my growth.
-
-Looking at marketing through an engineering lens, I quickly spotted two major challenges. First, there was a growing demand for data-driven decisions to shape effective strategies. Second, many routine tasks were still done manually, even when automation could streamline them. These observations sparked my passion for data analytics, visualization, and AI-powered automation. I'm now thrilled to embark on a journey that leverages my technical background to delve into data analytics and automation, uncovering valuable insights and drive performance in this rapidly growing industry.
-
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
