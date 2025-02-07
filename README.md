@@ -16,14 +16,14 @@ I quickly secured a media planner position, where I:
 
 ### 🔍 Identifying Key Challenges in Marketing
 In this role, I recognized two significant challenges in the marketing industry:
-- **Data-Driven Decision-Making:** There is a growing demand for marketing strategies based on robust data.
-- **Automation Potential:** Many manual tasks could be improved with automation, offering a chance to boost efficiency and reduce errors.
+- **Data-Driven Decision-Making:** There is a growing demand for marketing strategies rooted in solid data insights to maximize return on investment.
+- **Automation Potential:** Many manual tasks could be improved with automation, which could help boost efficiency and reduce errors.
 
 ### 💡 Discovering a Passion for Data & Automation
 These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could help elevate marketing strategies and boost the performance of media agencies.
 
 ### 🚀 Embarking on a New Journey
-Now, I’m leveraging my technical background to dive deeper into data analytics and automation. My mission is to uncover valuable marketing insights and drive transformational growth by merging engineering precision with marketing innovation.
+Now, I’m leveraging my technical background to dive deeper into data analytics and automation. I aim to integrate engineering thinking into businesses and organizations by uncovering valuable insights and achieve transformative growth.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
