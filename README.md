@@ -16,7 +16,7 @@ I quickly secured a media planner position, where I:
 
 ### 🔍 Identifying Key Challenges in Marketing
 In this role, I recognized two significant challenges in the marketing industry:
-- **Data-Driven Decision-Making:** There was a steady demand for marketing strategies based on robust data.
+- **Data-Driven Decision-Making:** There is a growing demand for marketing strategies based on robust data.
 - **Automation Potential:** Many manual tasks could be improved with automation, offering a chance to boost efficiency and reduce errors.
 
 ### 💡 Discovering a Passion for Data & Automation
