@@ -23,7 +23,7 @@ In this role, I recognized two significant challenges in the marketing industry:
 These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could enhance marketing strategies and improve the performance of media agencies.
 
 ### 🚀 Embarking on a New Journey
-Now, I’m leveraging my technical background to delve deeper into data analytics and automation. My goal for the future is to integrate an engineering mindset into businesses, helping them make data-driven decisions and achieve transformative growth through automation.
+Today, I’m leveraging my technical background to master data analytics and automation, bridging the gap between engineering and marketing. My goal is to help businesses make smarter, data-driven decisions and achieve transformative growth through automation.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
