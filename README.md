@@ -15,7 +15,7 @@ Looking at marketing through an engineering lens, I quickly spotted two major ch
 
 # 📚 Certificates
 [The Complete SQL Bootcamp: Go from Zero to Hero](https://udemy-certificate.s3.amazonaws.com/image/UC-dcad4043-f1a7-4863-8e65-0438981bfaa5.jpg)<br>
-[The Complete SQL Bootcamp: Go from Zero to Hero](https://skillshop.credential.net/9b197b3d-950d-49f7-b6dc-6865754053c3#acc.OTIYfm5Z)
+[Google Analytics Certification](https://skillshop.credential.net/9b197b3d-950d-49f7-b6dc-6865754053c3#acc.OTIYfm5Z)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=baptiste-meynet&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br>
