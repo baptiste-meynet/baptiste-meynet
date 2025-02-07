@@ -3,13 +3,13 @@
 ## My Journey: From Engineering to Data-Driven Marketing & Automation
 
 ### 🎓 An Unconventional Beginning
-With an engineering degree in hand, I intentionally ventured beyond traditional paths to broaden my skill set. My goal was to explore industries beyond engineering, embrace new challenges, and stimulate different ways of thinking.
+With an engineering degree in hand, I intentionally ventured beyond traditional paths to broaden my skill set. My goal was to explore industries beyond engineering, embrace new challenges, and develop new ways of thinking.
 
 ### 📈 Diving into Marketing
-Drawn to marketing, I aimed to enhance my communication skills, immerse myself in a creative environment, engage in project management, and build meaningful client relationships.
+Drawn to marketing, I wanted to enhance my communication skills, immerse myself in a creative environment, gain project management experience, and build meaningful client relationships.
 
 ### 💼 Securing a Media Planner Role
-I quickly secured a media planner position, where I:
+I quickly secured a role as a media planner, where I:
 - Developed and executed innovative marketing strategies
 - Coordinated cross-functional teams
 - Built and maintained strong client relationships
@@ -17,13 +17,13 @@ I quickly secured a media planner position, where I:
 ### 🔍 Identifying Key Challenges in Marketing
 In this role, I recognized two significant challenges in the marketing industry:
 - **Data-Driven Decision-Making:** There is a growing demand for marketing strategies rooted in solid data insights to maximize return on investment.
-- **Automation Potential:** Many manual tasks could be improved with automation, which could help boost efficiency and reduce errors.
+- **The Potential of Automation:** Many manual tasks could be streamlined through automation, increasing efficiency and reducing errors.
 
 ### 💡 Discovering a Passion for Data & Automation
-These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could help elevate marketing strategies and boost the performance of media agencies.
+These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could enhance marketing strategies and improve the performance of media agencies.
 
 ### 🚀 Embarking on a New Journey
-Now, I’m leveraging my technical background to dive deeper into data analytics and automation. I aim to integrate engineering thinking into businesses and organizations by uncovering valuable insights and achieve transformative growth.
+Now, I’m leveraging my technical background to delve deeper into data analytics and automation. My goal for the future is to integrate an engineering mindset into businesses, helping them make data-driven decisions and achieve transformative growth through automation.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
