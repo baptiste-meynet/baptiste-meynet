@@ -1,7 +1,29 @@
 # Hi, I'm Baptiste!
 
-👨‍🎓 Graduate of the Engineering School SeaTech (Aug. 2022)<br>
-🌱 Currently learning about data analytics and data visualization<br>
+## My Journey: From Engineering to Data-Driven Marketing & Automation
+
+### 🎓 An Unconventional Beginning
+With an engineering degree in hand, I intentionally ventured beyond traditional paths to broaden my skill set. My goal was to explore industries beyond engineering, embrace new challenges, and stimulate different ways of thinking.
+
+### 📈 Diving into Marketing
+Drawn to marketing, I aimed to enhance my communication skills, immerse myself in a creative environment, engage in project management, and build meaningful client relationships.
+
+### 💼 Securing a Media Planner Role
+I quickly secured a media planner position, where I:
+- Developed and executed innovative marketing strategies
+- Coordinated cross-functional teams
+- Built and maintained strong client relationships
+
+### 🔍 Identifying Key Challenges in Marketing
+In this role, I recognized two significant challenges in the marketing industry:
+- **Data-Driven Decision-Making:** There was a steady demand for marketing strategies based on robust data.
+- **Automation Potential:** Many manual tasks could be improved with automation, offering a chance to boost efficiency and reduce errors.
+
+### 💡 Discovering a Passion for Data & Automation
+These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could help elevate marketing strategies and boost the performance of media agencies.
+
+### 🚀 Embarking on a New Journey
+Now, I’m leveraging my technical background to dive deeper into data analytics and automation. My mission is to uncover valuable marketing insights and drive transformational growth by merging engineering precision with marketing innovation.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
