@@ -2,28 +2,32 @@
 
 ## My Journey: From Engineering to Data-Driven Marketing & Automation
 
-### 🎓 An Unconventional Beginning
-With an engineering degree in hand, I intentionally ventured beyond traditional paths to broaden my skill set. My goal was to explore industries beyond engineering, embrace new challenges, and develop new ways of thinking.
+### 🎓 A Different Path  
+After earning my engineering degree, I chose to step outside the traditional career path. I wanted to explore different industries, take on new challenges, and develop a broader way of thinking.  
 
-### 📈 Diving into Marketing
-Drawn to marketing, I wanted to enhance my communication skills, immerse myself in a creative environment, gain project management experience, and build meaningful client relationships.
+### 📈 Stepping into Marketing  
+Marketing caught my interest because it allowed me to:  
+- Improve my communication skills
+- Work in a creative environment
+- Gain project management experience
+- Develop hands-on experience working with clients
 
-### 💼 Securing a Media Planner Role
-I quickly secured a role as a media planner, where I:
-- Developed and executed innovative marketing strategies
-- Coordinated cross-functional teams
+### 💼 Becoming a Media Planner  
+I quickly landed a role as a media planner, where I:  
+- Created and executed marketing strategies  
+- Coordinated cross-functional teams  
 - Built and maintained strong client relationships
 
-### 🔍 Identifying Key Challenges in Marketing
-In this role, I recognized two significant challenges in the marketing industry:
-- **Data-Driven Decision-Making:** There is a growing demand for marketing strategies rooted in solid data insights to maximize return on investment.
-- **The Potential of Automation:** Many manual tasks could be streamlined through automation, increasing efficiency and reducing errors.
+### 🔍 The Challenges I Noticed in Marketing  
+In this role, I identified two major challenges:  
+- **Making Data-Driven Decisions:** Many marketing strategies lacked solid data insights, making it harder to measure success and maximize return on investment.  
+- **The Need for Automation:** Many tasks were done manually, which slowed things down and increased the risk of errors.  
 
-### 💡 Discovering a Passion for Data & Automation
-These insights ignited my passion for data analytics, data visualization, and AI-powered automation. I realized that by harnessing these tools, I could enhance marketing strategies and improve the performance of media agencies.
+### 💡 Finding My Passion for Data & Automation  
+Seeing these issues made me interested in data analytics, data visualization, and AI-powered automation. I realized that these tools could make marketing more effective and improve how media agencies work.  
 
-### 🚀 Embarking on a New Journey
-Today, I’m leveraging my technical background to master data analytics and automation, bridging the gap between engineering and marketing. My goal is to help businesses make smarter, data-driven decisions and achieve growth through automation.
+### 🚀 My Next Step  
+Now, I’m working on mastering data analytics and automation, building on my technical background. In the near future, my goal is to step into a role where I can help businesses make data-driven decisions and grow through automation.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
