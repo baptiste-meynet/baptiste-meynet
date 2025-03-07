@@ -20,7 +20,7 @@ I quickly landed a role as a media planner, where I:
 
 ### 🔍 The Challenges I Noticed in Marketing  
 In this role, I identified two major challenges:  
-- **Making Data-Driven Decisions:** Many marketing strategies lacked solid data insights, making it harder to measure success and maximize return on investment.  
+- **Making Data-Driven Decisions:** Solid data insights are key to maximizing the ROI of marketing strategies and accurately measuring campaign success.  
 - **The Need for Automation:** Many tasks were done manually, which slowed things down and increased the risk of errors.  
 
 ### 💡 Finding My Passion for Data & Automation  
