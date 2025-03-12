@@ -36,7 +36,7 @@ Now, I’m working on mastering data analytics and automation, building on my te
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📚 Certificates
-[The Complete SQL Bootcamp: Go from Zero to Hero](https://udemy-certificate.s3.amazonaws.com/image/UC-dcad4043-f1a7-4863-8e65-0438981bfaa5.jpg)<br>
+[The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-dcad4043-f1a7-4863-8e65-0438981bfaa5/)<br>
 [The Complete Tableau Bootcamp for Data Visualization](https://www.udemy.com/certificate/UC-d12be9d6-018e-423f-840c-328affbccc22/)<br>
 [Google Analytics Certification](https://skillshop.credential.net/9b197b3d-950d-49f7-b6dc-6865754053c3#acc.OTIYfm5Z)
 
