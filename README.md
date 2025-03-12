@@ -37,6 +37,7 @@ Now, I’m working on mastering data analytics and automation, building on my te
 
 # 📚 Certificates
 [The Complete SQL Bootcamp: Go from Zero to Hero](https://udemy-certificate.s3.amazonaws.com/image/UC-dcad4043-f1a7-4863-8e65-0438981bfaa5.jpg)<br>
+[The Complete Tableau Bootcamp for Data Visualization]([https://skillshop.credential.net/9b197b3d-950d-49f7-b6dc-6865754053c3#acc.OTIYfm5Z](https://www.udemy.com/certificate/UC-d12be9d6-018e-423f-840c-328affbccc22/))
 [Google Analytics Certification](https://skillshop.credential.net/9b197b3d-950d-49f7-b6dc-6865754053c3#acc.OTIYfm5Z)
 
 # 📊 GitHub Stats
