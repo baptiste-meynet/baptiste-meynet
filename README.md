@@ -27,7 +27,7 @@ In this role, I identified two major challenges:
 Seeing these challenges made me interested in data analytics, data visualization, and AI-powered automation. I realized that these tools could make marketing more effective and improve how media agencies work.  
 
 ### 🚀 My Next Step  
-Now, I’m working on mastering data analytics and automation, building on my technical background. In the near future, my goal is to step into a role where I can help businesses make data-driven decisions and grow through automation.
+I’m currently focused on mastering data analytics and automation, building on my technical background. In the near future, my goal is to step into a role where I can help businesses drive growth through data-driven decision-making and automation.
 
 # 💻 Tech Stack
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
