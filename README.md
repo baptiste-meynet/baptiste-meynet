@@ -3,7 +3,7 @@
 ## My Journey: From Engineering to Data-Driven Marketing & Automation
 
 ### 🎓 A Different Path  
-After earning my engineering degree, I chose to step outside the traditional career path. I wanted to explore different industries, take on new challenges, and develop a broader way of thinking.  
+After earning my engineering degree, I chose to step outside the traditional career path. I wanted to explore a different industry, take on new challenges, and develop a broader way of thinking.  
 
 ### 📈 Stepping into Marketing  
 Marketing caught my interest because it allowed me to:  
