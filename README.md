@@ -1,4 +1,4 @@
-# Hi, I'm Baptiste!
+# Hi there, I'm Baptiste!
 
 ## My Journey: From Engineering to Data-Driven Marketing & Automation
 
